@@ -1,10 +1,10 @@
-package com.ipi.jva324.commande;
+package com.ipi.jva324.stock;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CommandeApplicationTests {
+class StockApplicationTests {
 
 	@Test
 	void contextLoads() {
